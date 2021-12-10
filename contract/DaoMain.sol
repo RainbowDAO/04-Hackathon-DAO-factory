@@ -51,7 +51,7 @@ contract DaoMain{
     // function _init_contracts(string memory _name,string memory _logo, string memory _des) internal {
         
     // }
-    //获取创建的地址 
+    
     function getOwnedDaos() public view returns(uint[] memory){
         return userDaos[msg.sender];
     }
