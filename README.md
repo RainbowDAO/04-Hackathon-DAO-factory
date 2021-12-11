@@ -16,6 +16,7 @@ Rainbowcity Foundation
 ### Submission links
 
 - Website: http://factory.rainbowdao.io/
+- Hackathon: https://www.rainbowdao.io/Hackathon
 - GitHub repository :https://github.com/RainbowDAO/04-Hackathon-DAO-factory
 - Smart contracts (GitHub): https://github.com/RainbowDAO/04-Hackathon-DAO-factory/tree/main/contract
 - Frontend code (GitHub):https://github.com/RainbowDAO/04-Hackathon-DAO-factory/tree/main/Front-end%20file
