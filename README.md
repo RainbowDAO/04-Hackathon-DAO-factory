@@ -26,7 +26,9 @@ The overall protocol is too large and is currently under development and has not
 
 ### Recorded video demo
 
+https://youtu.be/cM9dcFOtR6w
 
+![image](https://raw.githubusercontent.com/RainbowDAO/Gitcoin/main/pic/101.png)
 
 ### Date when team began working on the project
 
