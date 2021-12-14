@@ -119,6 +119,14 @@ This product is suitable for all types of DAO organizations, whether it is a lar
 
 
 - Smart contracts docs: https://github.com/RainbowDAO/04-Hackathon-DAO-factory/blob/main/contract/README.md
+
+Kovan Test Network
+
+Contract Address
+
+DAOMain: 0x90A56aB14f2C9324671385D8B177a1bEb93904a3
+
+
 - Frontend docs: https://github.com/RainbowDAO/04-Hackathon-DAO-factory/blob/main/Front-end%20file/README.md
 
 
