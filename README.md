@@ -28,7 +28,7 @@ The overall protocol is too large and is currently under development and has not
 
 https://youtu.be/cM9dcFOtR6w
 
-![image](https://raw.githubusercontent.com/RainbowDAO/Gitcoin/main/pic/101.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/04-Hackathon-DAO-factory/main/pic/201.png)
 
 ### Date when team began working on the project
 
