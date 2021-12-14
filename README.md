@@ -416,10 +416,15 @@ The third layer belongs to the DAO factory contract, which is mainly used for th
 
 
 
+### 1.Create a DAO organization and set basic information.
+
 
 
 ![image](https://raw.githubusercontent.com/RainbowDAO/04-Hackathon-DAO-factory/main/pic/101.png)
 
+
+
+### 2.Configure the Token information of the DAO organization.
 
 
 
@@ -427,13 +432,24 @@ The third layer belongs to the DAO factory contract, which is mainly used for th
 
 
 
+
+### 3.Select the template information of the DAO organization.
+
+
+
+
 ![image](https://raw.githubusercontent.com/RainbowDAO/04-Hackathon-DAO-factory/main/pic/103.png)
 
 
 
+### 4.Add the governance token of the DAO organization.
+
 
 ![image](https://raw.githubusercontent.com/RainbowDAO/04-Hackathon-DAO-factory/main/pic/104.png)
 
+
+
+### 5.Home page of the DAO organization
 
 
 
@@ -441,9 +457,15 @@ The third layer belongs to the DAO factory contract, which is mainly used for th
 
 
 
+### 6.Token holding information of DAO organization.
+
+
 
 ![image](https://raw.githubusercontent.com/RainbowDAO/04-Hackathon-DAO-factory/main/pic/106.png)
 
+
+
+### 7.Voting information of the DAO organization.
 
 
 
@@ -452,17 +474,29 @@ The third layer belongs to the DAO factory contract, which is mainly used for th
 
 
 
+### 8.New vote organized by DAO.
+
+
+
 ![image](https://raw.githubusercontent.com/RainbowDAO/04-Hackathon-DAO-factory/main/pic/108.png)
 
 
+
+### 9.The authority information of the DAO organization.
 
 
 ![image](https://raw.githubusercontent.com/RainbowDAO/04-Hackathon-DAO-factory/main/pic/109.png)
 
 
 
+### 10.DAO organization setting information.
+
 
 ![image](https://raw.githubusercontent.com/RainbowDAO/04-Hackathon-DAO-factory/main/pic/110.png)
+
+
+
+
 
 
 
