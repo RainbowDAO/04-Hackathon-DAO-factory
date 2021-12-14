@@ -1,6 +1,9 @@
 pragma solidity ^0.6.0;
-import "./DaoManage.sol";
+pragma experimental ABIEncoderV2;
 import "./Vault.sol";
+import "./DaoManage.sol";
+import "./Authority.sol";
+
 
 contract DaoMain{
     address public owner;
@@ -28,8 +31,10 @@ contract DaoMain{
     
     function creatDao(string memory _name,string memory _logo,string memory _des) public {
         require(msg.sender != address(0), "Invalid address");
-        address manage = address(new DaoManage(msg.sender,_name,_logo,_des));
-        address vault = address(new Vault(msg.sender,manage, address(0)));
+        // address vault = address(new Vault(msg.sender,manage, address(0)));
+        address auth = address(new Authority(msg.sender));
+        address manage = address(new DaoManage(msg.sender,_name,_logo,_des,auth,address(0)));
+      
         DaoInfo memory addr = DaoInfo({
             name: _name,
             logo: _logo,
@@ -51,7 +56,7 @@ contract DaoMain{
     // function _init_contracts(string memory _name,string memory _logo, string memory _des) internal {
         
     // }
-    
+    //获取创建的地址 
     function getOwnedDaos() public view returns(uint[] memory){
         return userDaos[msg.sender];
     }
